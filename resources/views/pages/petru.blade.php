@@ -1,7 +1,7 @@
 @extends('basic')
 
 @section('content')
-<div class="petru_title">HerrPetru</div>
+<div class="petru_title">Petru Rogojanu sau altcineva</div>
 
 <section class="petru_info">
 <p>&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet massa ligula. Aliquam maximus mollis diam eget laoreet. Nullam mi risus, cursus at dignissim quis, dignissim dictum neque. Cras dui neque, dignissim eu nunc nec, porta tincidunt quam. Integer sed scelerisque orci. Morbi malesuada rutrum vulputate. Suspendisse id eros rhoncus justo consequat tempor. Phasellus pellentesque elit at dapibus porta. Mauris sodales nec mi consectetur euismod. Maecenas in tellus condimentum, tempor orci ac, efficitur magna.
