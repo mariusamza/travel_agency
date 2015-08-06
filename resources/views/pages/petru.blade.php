@@ -16,7 +16,44 @@ Etiam vestibulum ligula ac auctor elementum. Morbi convallis viverra ante et ult
 @stop
 
 @section('top_extra')
-
+<div class="section group">
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+</div>
 
 @stop
 
